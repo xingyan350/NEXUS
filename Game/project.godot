@@ -1,0 +1,14 @@
+; NEXUS - Godot 4 project
+; Keep shared project settings in version control.
+
+config_version=5
+
+[application]
+
+config/name="NEXUS"
+run/main_scene="res://scenes/main.tscn"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
