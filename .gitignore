@@ -1,0 +1,31 @@
+# Godot 4 generated/imported data
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Build / export output
+/build/
+/dist/
+/exports/
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
